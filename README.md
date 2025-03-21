@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7bu8sRnYpTOG1p8k/giphy.gif" width="100%" />
+  <img src="https://i.pinimg.com/originals/1a/a2/00/1aa2008c04d15f46d38b797cb1452ed4.gif" width="100%" />
 </p>
 
 <h1 align="center">
