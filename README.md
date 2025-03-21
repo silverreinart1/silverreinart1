@@ -5,7 +5,7 @@
 
 <!-- Neon Glowing Name -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&color=FF00FF&center=true&vCenter=true&width=500&height=60&lines=🚀+Welcome+to+my+Galaxy!+🌌;Hi+👋,+I'm+Silver+Reinart!+💫;Full-Stack+Developer+🚀+;Game+Creator+🎮+;Web+Wizard+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&color=FF00FF&center=true&vCenter=true&width=500&height=60&lines=🚀+Welcome+!+🌌;Hi+👋,+I'm+Silver+Reinart!+💫;" />
 </h1>
 
 <!-- Profile Views -->
@@ -57,11 +57,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=silverreinart1&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-## 🎵 Vibes While Coding 🎶
-[![Spotify](https://novatorem-xyz.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_id)
 
 ---
 
