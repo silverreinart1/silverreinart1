@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**silverreinart1/silverreinart1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://gpvc.arturio.dev/silverreinart1)
 
-Here are some ideas to get you started:
+I'm a developer passionate about [your interests]. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- [Project 1](https://github.com/silverreinart1/project-1)
+- [Project 2](https://github.com/silverreinart1/project-2)
+
+## 🔧 Technologies & Tools
+- **Languages:** Vue, JavaScript, HTML, CSS
+- **Tools:** GitHub, VS Code, Docker
+
+## 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourprofile)
+
+## 📝 Blog Posts
+- [Post 1](https://yourblog.com/post-1)
+- [Post 2](https://yourblog.com/post-2)
