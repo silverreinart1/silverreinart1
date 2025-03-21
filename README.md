@@ -1,38 +1,37 @@
-<!-- Banner -->
+<!-- Space Background Effect -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/1a/a2/00/1aa2008c04d15f46d38b797cb1452ed4.gif" width="100%" />
 </p>
 
+<!-- Neon Glowing Name -->
 <h1 align="center">
-  <span style="background: linear-gradient(45deg, #ff00ff, #ff8800, #00ffff); -webkit-background-clip: text; color: transparent;">
-    Hi 👋, I'm Silver Reinart
-  </span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&color=FF00FF&center=true&vCenter=true&width=500&height=60&lines=🚀+Welcome+to+my+Galaxy!+🌌;Hi+👋,+I'm+Silver+Reinart!+💫;Full-Stack+Developer+🚀+;Game+Creator+🎮+;Web+Wizard+✨" />
 </h1>
 
+<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=silverreinart1&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=silverreinart1&label=🚀+Profile+Views&color=ff69b4&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
-🔭 I’m currently working on **Laravel & Vue-based projects**  
-🌌 I love **Game Development, Web Development & UI/UX Design**  
-🚀 Passionate about **Blender, Unreal Engine, and Unity**  
-🌟 Always learning **new technologies & creative tools**  
+💻 Full-Stack Developer | 🎮 Game Designer | 🚀 Web Enthusiast  
+🔥 Passionate about **Laravel, Vue, Game Dev & Cyber Aesthetics**  
+🌌 Exploring the **cosmos of technology** one project at a time  
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/silverreinart1">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+## ⚡ Languages & Tools
 <p align="center">
   <a href="https://www.blender.org/"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="50" height="50"/></a>
   <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/></a>
@@ -48,11 +47,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=silverreinart1&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=silverreinart1&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silverreinart1&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silverreinart1&theme=highcontrast" />
 </p>
 
 <p align="center">
@@ -61,4 +60,9 @@
 
 ---
 
-🌌 *“To infinity and beyond!”* 🚀
+## 🎵 Vibes While Coding 🎶
+[![Spotify](https://novatorem-xyz.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_id)
+
+---
+
+🌌 **"Keep looking up, because that’s where it all is!"** 🚀
