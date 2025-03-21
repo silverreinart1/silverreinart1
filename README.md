@@ -16,9 +16,7 @@
 ---
 
 ## 🚀 About Me
-💻 Full-Stack Developer | 🎮 Game Designer | 🚀 Web Enthusiast  
-🔥 Passionate about **Laravel, Vue, Game Dev & Cyber Aesthetics**  
-🌌 Exploring the **cosmos of technology** one project at a time  
+I like fried chicken
 
 ---
 
